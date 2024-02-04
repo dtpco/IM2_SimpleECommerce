@@ -8,5 +8,5 @@ El Es Cee<br>
 J Em Bee<br>
 J Ey Dee<br>
 
-### Project Description
-Similar to an online shopping web application where you can buy a product from a certain supplier and keep track of the transaction and delivery.
+## Project Description
+Similar to an online shopping web application<br>where you can buy a product from a certain supplier and keep track of the transaction and delivery.
